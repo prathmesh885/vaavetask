@@ -1,0 +1,21 @@
+.fontNormal {
+    font: normal normal bold 20px/30px Poppins;
+}
+
+.fontBold {
+    font: normal normal bold 30px/48px Poppins;
+}
+
+ul {
+    list-style: none;
+
+}
+
+.m-40 {
+    margin-top: 40px;
+}
+
+.imgTags {
+    background-size: cover;
+    background-position: center;
+}
